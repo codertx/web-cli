@@ -1,0 +1,14 @@
+{
+  "name": "web-cli",
+  "version": "1.0.0",
+  "description": "A cli tool that automatically generate webpack-configured project",
+  "main": "src/bin/cli.js",
+  "repository": "git@github.com:codertx/web-cli.git",
+  "author": "codert",
+  "license": "MIT",
+  "dependencies": {
+    "@types/inquirer": "^6.5.0",
+    "commander": "^5.1.0",
+    "inquirer": "^7.2.0"
+  }
+}
